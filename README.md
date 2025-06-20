@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @simigdalius. I’m currently learning godot
 
-<!---
-simigdalius/simigdalius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simigdalius&show_icons=true&locale=en&layout=compact" alt="simigdalius" /></p>
