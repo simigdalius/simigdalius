@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simigdalius. I’m currently learning godot
+- 👋 Hi, I’m @simigdalius.
 
 
 <p align="left">
