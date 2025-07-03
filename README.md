@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simigdalius.
+-  Hi, I’m @simigdalius.
 
 
 <p align="left">
