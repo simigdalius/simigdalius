@@ -32,14 +32,3 @@
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simigdalius/simigdalius/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simigdalius/simigdalius/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simigdalius/simigdalius/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simigdalius&show_icons=true&locale=en&layout=compact" alt="simigdalius Top Languages" />
-</p>
