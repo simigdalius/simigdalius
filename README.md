@@ -38,4 +38,7 @@
 </div>
 
 <br/>
+<p align="center">
+  <img src="https://gitpets.onrender.com/api?username=simigdalius" alt="My GitHub Tamagotchi" />
+</p>
 
