@@ -39,6 +39,6 @@
 
 <br/>
 <p align="center">
-  <img src="https://gitpets.onrender.com/api?username=simigdalius" alt="My GitHub Tamagotchi" />
+  <img src="https://gitpets.onrender.com/api?username=simigdalius&petname=molly&v=10" alt="My GitHub Tamagotchi" />
 </p>
 
