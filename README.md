@@ -36,7 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width='12' />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simigdalius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 <br/>
 <p align="center">
   <img src="https://gitpets.onrender.com/api?username=simigdalius&petname=molly&v=10" alt="My GitHub Tamagotchi" />
