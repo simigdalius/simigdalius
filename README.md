@@ -32,8 +32,6 @@
 </div>
 <br/>
 <div align="center">
-  
-  <img width="20" />
-
-  <img src="https://gitpets.onrender.com/api?username=simigdalius&petname=molly&v=10" height="200" alt="My GitHub Tamagotchi" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+ 
 </div>
