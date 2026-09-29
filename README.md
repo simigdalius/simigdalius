@@ -32,5 +32,5 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simigdalius&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simigdalius&layout=compact&theme=radical" alt="Top Languages" />
 </div>
