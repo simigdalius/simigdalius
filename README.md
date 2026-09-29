@@ -32,6 +32,5 @@
 </div>
 <br/>
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simigdalius&show_icons=true&theme=radical)
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=simigdalius&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
