@@ -7,6 +7,7 @@
 - 🎓 I am a student at **IEE** (Information and Electronic Engineering) | **IHU**
 - 🎮 Interested in Game Development.
 - 📫 How to reach me: aggelikhsimigdali@gmail.com
+- 📫 Portofolio: https://simigdalius-portofolio.vercel.app/
 
 ### 🛠️ My Tech Stack
 
