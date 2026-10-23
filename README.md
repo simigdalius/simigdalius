@@ -5,7 +5,9 @@
 
 ### 👩‍💻 About Me
 - 🎓 I am a student at **IEE** (Information and Electronic Engineering) | **IHU**
+- 🎓 Thesis: Design and implementation of a smart control device for people with physical disabilities
 - 🎮 Interested in Game Development.
+- 🎮 You can play some of my games here: https://simigdalius.itch.io/
 - 📫 How to reach me: aggelikhsimigdali@gmail.com
 - 📫 Portofolio: [https://simigdalius-portofolio.vercel.app/](https://simigdalius-portfolio.vercel.app/)
 
