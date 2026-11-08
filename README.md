@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Niki!+👋&width=350)](https://git.io/typing-svg)
-
-<h3 align="center">aka @simigdalius</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Angeliki aka simigdalius!+👋&width=350)](https://git.io/typing-svg)
 
 <br/>
 
