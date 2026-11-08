@@ -35,5 +35,5 @@
 </div>
 <br/>
 <div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simigdalius&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simigdalius&layout=compact" alt="Top Languages" />
 </div>
