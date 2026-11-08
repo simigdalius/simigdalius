@@ -1,8 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Angeliki+👋&width=350)](https://git.io/typing-svg)
 
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+aka+simidalius&width=350)](https://git.io/typing-svg)
 
 ### 👩‍💻 About Me
 - 🎓 I am a student at **IEE** (Information and Electronic Engineering) | **IHU**
