@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Angeliki+👋&width=350)](https://git.io/typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Angeliki+👋&width=350)](https://git.io/typing-svg)
+
 
 <br/>
 
