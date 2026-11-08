@@ -36,6 +36,7 @@
 <br/>
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simigdalius&layout=compact)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=simigdalius&layout=donut-vertical&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+
 
 </div>
